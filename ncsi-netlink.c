@@ -3,6 +3,7 @@
 #include <getopt.h>
 #include <errno.h>
 #include <stdbool.h>
+#include <stdint.h>
 
 #include <linux/netlink.h>
 
