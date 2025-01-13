@@ -5,8 +5,8 @@
 #include <stdbool.h>
 
 #include <linux/netlink.h>
-#include <netlink/genl/genl.h>
-#include <netlink/genl/ctrl.h>
+#include <linux/genl/genl.h>
+#include <linux/genl/ctrl.h>
 
 #include <linux/ncsi.h>
 //#include "ncsi.h"
